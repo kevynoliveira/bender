@@ -1,5 +1,4 @@
-# bender
-Hackintosh files for the Dell Latitude 7410
+![](./Screenshot.png]
 
 ## specs
 - macOS version: 10.15.7 (Catalina)
