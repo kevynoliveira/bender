@@ -1,4 +1,4 @@
-![](./Screenshot.png]
+![](./Screenshot.png)
 
 ## specs
 - macOS version: 10.15.7 (Catalina)
