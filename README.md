@@ -15,7 +15,7 @@
 - Bluetooth
 - Trackpad (with gestures)
 - Integrated graphics
-- Audio (internal speakers, headphone jack, bluetooth headphones)
+- Audio (internal speakers, bluetooth headphones)
 - I/O (USB-A and USB-C ports)
 - Integrated webcam
 
@@ -23,9 +23,5 @@
 - MicroSD card slot
 - HDMI
 - iMessage, FaceTime, AirDrop etc.
-
-## misc
-A couple of things to be mindful about:
-- Display gets dim (minimum brightness) at boot, goes back to normal after a few mins or sleep -> wake (doesn't happen every time but happens most of the time)
 - Battery life is poor (compared to other OS's)
 - Laptop gets hot easily (compared to other OS's)
