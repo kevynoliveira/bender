@@ -15,7 +15,7 @@
 - Bluetooth
 - Trackpad (with gestures)
 - Integrated graphics
-- Audio (internal speakers, bluetooth headphones)
+- Audio (internal speakers, headphone jack, bluetooth headphones, USB interface)
 - I/O (USB-A and USB-C ports)
 - Integrated webcam
 
